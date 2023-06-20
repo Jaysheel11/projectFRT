@@ -8,13 +8,13 @@ Project Link - https://happy-mud-0fa3ca100.3.azurestaticapps.net/
 
 Project demo video link
 
-AZURE technologies used:
+##AZURE technologies used:
 
 -> Static web apps
 
 -> Health bot
 
-Features and Functionalities 😃
+##Features and Functionalities 😃
 
 Interactive and responsive UI.
 
@@ -28,7 +28,7 @@ Users can access valuable health information through this website.
 
 Includes a feedback survey form to gather user feedback and improve the application.
 
-Screenshots
+##Screenshots
 
 ![home](https://github.com/Jaysheel11/projectFRT/assets/118257294/3aeb8ba0-bab7-4204-ac41-8a7db21868b1)
 
@@ -48,7 +48,7 @@ Health Bot
 ![healthbot](https://github.com/Jaysheel11/projectFRT/assets/118257294/b6d6c614-b42e-4bbf-87e3-763319925dc9)
 
 
-Tech Stack 💻
+##Tech Stack 💻
 
 Azure (Hosting)
 
