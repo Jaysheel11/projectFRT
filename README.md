@@ -1,7 +1,7 @@
 # projectFRT
 
 
-Medick Health App is a web-based application developed for health-related services in India.
+##Medick Health App is a web-based application developed for health-related services in India.
 
 This web-based health application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, GitHub, and EY.
 Project Link - https://happy-mud-0fa3ca100.3.azurestaticapps.net/
