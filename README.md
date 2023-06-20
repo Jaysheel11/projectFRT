@@ -4,13 +4,13 @@
 ##Medick Health App is a web-based application developed for health-related services in India.
 
 This web-based health application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, GitHub, and EY.
-Project Link - https://happy-mud-0fa3ca100.3.azurestaticapps.net/
+Project Link:- https://happy-mud-0fa3ca100.3.azurestaticapps.net/
 
-Project demo video link
+Project demo video link:-
 
 
 
-https://github.com/Jaysheel11/projectFRT/assets/118257294/43e71b1b-e2a9-45b1-8f87-ba48e9b52cdb
+
 
 
 ##AZURE technologies used:
