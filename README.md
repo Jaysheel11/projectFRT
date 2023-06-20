@@ -15,12 +15,19 @@ AZURE technologies used:
 -> Health bot
 
 Features and Functionalities 😃
+
 Interactive and responsive UI.
+
 Includes innovative graphical and visual effects.
+
 Aesthetically pleasing visual design and architecture.
+
 Offers a variety of web pages, including Home, About Us, Contact, Services, Health Topics, and Health-related Information, etc.
+
 Users can access valuable health information through this website.
+
 Includes a feedback survey form to gather user feedback and improve the application.
+
 Screenshots
 
 ![home](https://github.com/Jaysheel11/projectFRT/assets/118257294/3aeb8ba0-bab7-4204-ac41-8a7db21868b1)
