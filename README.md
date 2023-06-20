@@ -8,6 +8,11 @@ Project Link - https://happy-mud-0fa3ca100.3.azurestaticapps.net/
 
 Project demo video link
 
+
+
+https://github.com/Jaysheel11/projectFRT/assets/118257294/43e71b1b-e2a9-45b1-8f87-ba48e9b52cdb
+
+
 ##AZURE technologies used:
 
 -> Static web apps
