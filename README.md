@@ -8,10 +8,12 @@ This web-based health application has been developed for the accomplishment of t
 Project Link:  https://happy-mud-0fa3ca100.3.azurestaticapps.net/
 
 
-Project demo video link:
+Project demo video link: https://youtu.be/zPgriHM9kx8
 
 
 
+
+Project demo video:
 
 
 https://github.com/Jaysheel11/projectFRT/assets/118257294/50c1c90a-88d7-45c2-b8bc-605c966162ce
