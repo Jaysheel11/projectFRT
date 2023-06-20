@@ -9,6 +9,7 @@ Project Link - https://happy-mud-0fa3ca100.3.azurestaticapps.net/
 Project demo video link
 
 AZURE technologies used:
+
 -> Static web apps
 
 -> Health bot
