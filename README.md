@@ -36,8 +36,14 @@ Health Bot
 
 
 Tech Stack 💻
+
 Azure (Hosting)
+
 HTML
+
 CSS
+
 Bootstrap
+
 JavaScript
+
